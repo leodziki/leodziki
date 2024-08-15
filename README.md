@@ -11,7 +11,7 @@
 - 📚 I’m currently learning **JUnit and Mockito**, exploring Web3 Space 😅
 - ⏳ Exploring Google Cloud & Microsoft Azure
 - 🚀 Always ready to collaborate for Dev Experiments
-- 💪🏼 Future Goals: Researching more technologies - Never stop creating new ideas.
+- 💪🏼 Future Goals: Always stand on the cutting-edge of technologies, enjoy life by turning dreams to reality
 
 <br/>
 
