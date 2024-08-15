@@ -8,11 +8,10 @@
 ### Congratulations! You found me
 
 - 👨‍💻 I’m currently working on web development technologies like `Spring Boot`, `DRF`, `React` etc.
-- 📚 I’m currently learning **Docker, JUnit and Mockito**, exploring Web3 Space 😅
+- 📚 I’m currently learning **JUnit and Mockito**, exploring Web3 Space 😅
 - ⏳ Exploring Google Cloud & Microsoft Azure
 - 🚀 Always ready to collaborate for Dev Experiments
-
-- 💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas.
+- 💪🏼 Future Goals: Researching more technologies - Never stop creating new ideas.
 
 <br/>
 
